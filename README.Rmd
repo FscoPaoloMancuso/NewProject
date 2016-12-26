@@ -5,4 +5,6 @@
 
 This is the Readme file of a new project.
 
-------
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
